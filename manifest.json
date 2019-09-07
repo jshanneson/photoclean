@@ -2,5 +2,5 @@
     "name": "photoclean",
     "version": "0.0.1",
     "description": "An extension that automatically removes all the metadata from your JPEG uploads!",
-    "manifest_version": 1
+    "manifest_version": 2
 }
