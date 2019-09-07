@@ -1,4 +1,5 @@
 function getExif() {
-    var img1 = document.getElementById("img1");
-    
+    var img1 = chrome.runtime.getURL("myimage.jpg");
+    document.getElementById("myimage").src = imgURL;
+
 }
